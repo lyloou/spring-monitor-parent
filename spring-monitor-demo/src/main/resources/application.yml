@@ -1,0 +1,3 @@
+#monitor:
+#  default-status: 'ON'
+#  scan-package: com.lyloou.demo
