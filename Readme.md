@@ -78,6 +78,7 @@ public class ScheduleService {
 
 也可以在 @MonitorClass 和 @MonitorMethod 注解参数中加入自定义的名字做为 key。
 默认的 key 为：`包名.类名.方法名`
+
 ![Readme-2021-03-05-14-51-28](http://cdn.lyloou.com/img/Readme-2021-03-05-14-51-28.png)
 
 ## api：
@@ -99,10 +100,10 @@ http://localhost:8080/monitor/putAll?value=OFF
 http://localhost:8080/monitor/call?key=com.lyloou.monitor.ScheduleService.runPer10s
 ```
 
-具体逻辑查看 `MonitorController` 进行监控：
+具体逻辑查看 `MonitorController` 
 
 ## 源码
-
+https://github.com/lyloou/spring-monitor-parent
 
 ## 扩展
 
