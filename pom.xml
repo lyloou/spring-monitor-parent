@@ -17,6 +17,8 @@
     <modules>
         <module>spring-monitor</module>
         <module>spring-monitor-demo</module>
+        <module>spring-monitor-schedule</module>
+        <module>spring-monitor-schedule-demo</module>
     </modules>
 
     <name>spring-monitor-parent</name>

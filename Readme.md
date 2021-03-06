@@ -108,3 +108,4 @@ https://github.com/lyloou/spring-monitor-parent
 ## 扩展
 
 - 也可以将 `@Scheduled` 做为一个切入点；
+  (如 module `spring-monitor-schedule`，测试module：`spring-monitor-schedule-demo`)
